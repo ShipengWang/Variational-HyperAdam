@@ -1,0 +1,1 @@
+{"task": "HyperAdamVar", "id": "dbjifc", "batch_size": 128, "optimizer_steps": 100, "truncated_bptt_step": 20, "update_per_epoch": 100, "max_epoch": 100, "eid": 70, "hidden_size": 20, "num_layers": 2, "preproc": true, "device": "cuda:0", "weight_decay": 0.0005}
