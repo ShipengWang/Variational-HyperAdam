@@ -21,7 +21,7 @@ sh batch_process.sh
 ```
 
 
-**Requirement**: pyTorch >= 1.0, Python 3.7
+**Requirement**: PyTorch >= 1.0, Python 3.7
 
 
 Citation
