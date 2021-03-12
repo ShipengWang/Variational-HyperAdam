@@ -2,7 +2,7 @@
 
 This is a PyTorch implementation of the Variational-HyperAdam algorithm from our TPAMI paper:
 
-**Title**: variational hyperadam: a meta-learning approach to network training
+**Title**: Variational-HyperAdam: A Meta-learning Appproach to Network Training
 
 **Authors**: Shipeng Wang, Yan Yang, Jian Sun, Zongben Xu
 
