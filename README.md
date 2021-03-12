@@ -1,4 +1,6 @@
 # Variational-HyperAdam
 
-The code is coming soon!
+This is a PyTorch implementation of the Variational-HyperAdam algorithm from our TPAMI paper:
+
+
 
